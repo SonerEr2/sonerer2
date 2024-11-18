@@ -1,5 +1,11 @@
 
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D03AQE1ITxGOJQ9lw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1648028019250?e=1737590400&v=beta&t=rnTpChJ80GSJ5vYNsvgtJ59VoiThnf1bsiEFutJHuvs)
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGQwpElqmgI8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731962666338?e=1737590400&v=beta&t=s4tsxQD5u9wjxl4JlwbsCcVJWJWWGRlVf-b0j9BDU2k" alt="MasterHead" width="200" style="border-radius: 50%; border: 2px solid #000;">
+</div>
+
+
+  
 
 
 
@@ -7,7 +13,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Soner ER</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Frontend Developer && Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonerer2&label=Profile%20views&color=0e75b6&style=flat" alt="sonerer2" /> </p>
 
