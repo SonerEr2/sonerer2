@@ -14,6 +14,7 @@
 
 <h1 align="center">Hi 👋, I'm Soner ER</h1>
 <h3 align="center">Frontend Developer && Mobile Developer</h3>
+<p align="center">As a frontend developer, I build modern, user-focused, and high-performance web applications. I have experience with technologies such as React,React Native,Typescript, Next.js, Material UI, and Tailwind CSS</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonerer2&label=Profile%20views&color=0e75b6&style=flat" alt="sonerer2" /> </p>
 
