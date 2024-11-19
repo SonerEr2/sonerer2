@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGQwpElqmgI8A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731962666338?e=1737590400&v=beta&t=s4tsxQD5u9wjxl4JlwbsCcVJWJWWGRlVf-b0j9BDU2k" alt="MasterHead" width="200" style="border-radius: 50%; border: 2px solid #000;">
+  <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true" alt="MasterHead" width="1000" style="border-radius: 50%; border: 2px solid #000;">
 </div>
 
 
